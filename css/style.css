@@ -1,0 +1,26 @@
+h1{ color: #f021d3;}
+p { color: black; }
+li { color: green;}
+a {
+  color: yellow;
+  text-decoration: none;
+}
+i { color: ;}
+b { font-size: 140%;}
+
+header {color: blue; font-size: 40px;}
+footer {font-style: italic;}
+
+.topic { background-color: rgb(220, 220, 233);}
+
+#castamere { color: red;}
+
+.families
+{
+  font-size: 110%;
+  background: url('images/cat.jpg');
+}
+.unused-class {}
+
+.good-line-height { line-height: 1.62; }
+.make-red {color: red;}
